@@ -28,6 +28,8 @@ markupsafe==2.0.1
     # via jinja2
 rapidfuzz==1.5.0
     # via -r requirements.in
+pillow==9.2.0
+    # via -r requirements.in
 smartypants==2.0.1
     # via -r requirements.in
 unidecode==1.2.0
